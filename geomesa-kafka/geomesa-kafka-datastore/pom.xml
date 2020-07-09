@@ -29,6 +29,7 @@
         <module>geomesa-kafka-09-datastore</module>
         <module>geomesa-kafka-10-datastore</module>
         <module>geomesa-kafka-21-datastore</module>
+        <module>geomesa-kafka-22-datastore</module>
     </modules>
 
     <dependencyManagement>
